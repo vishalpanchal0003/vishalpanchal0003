@@ -1,4 +1,41 @@
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:020617,50:4C1D95,100:06B6D4&text=VISHAL%20PANCHAL&fontSize=44&fontColor=FFFFFF&animation=fadeIn&stroke=22D3EE&strokeWidth=1" width="100%" alt="Vishal Panchal"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Frontend+%26+Full+Stack+Engineer;Building+Real-World+Web+Applications;Exploring+AI+Agents+%26+LLMs" alt="Animated role"/>
+
+<br/>
+
+<a href="https://github.com/vishalpanchal0003">
+<img src="https://img.shields.io/badge/BUILDING-REAL_WORLD_PROJECTS-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Building projects"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishalpanchal0009">
+<img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
+### ⚡ Developer Profile
+
+I'm a MERN Stack Developer passionate about building responsive, practical web applications and learning modern technologies.
+
+- 💻 **Frontend:** React.js, JavaScript, Tailwind CSS
+- ⚙️ **Backend:** Node.js, Express.js, REST APIs
+- 🗄️ **Database:** MongoDB, Mongoose
+- 🔄 **State & Data:** TanStack Query
+- 🤖 **Exploring:** AI Agents, LLMs and Tool Calling
+- 🎯 **Goal:** Build reliable products and grow as a developer
+
+<div align="center">
+
+**BUILD • LEARN • CREATE • REPEAT**
+
+</div>
+
 <!-- ═══════════════ NEON PROFILE HEADER ═══════════════ -->
 
 <div align="center">
